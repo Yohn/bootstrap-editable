@@ -1,3 +1,8 @@
+![This project was significally improved and renamed into X-editable](https://github.com/downloads/vitalets/bootstrap-editable/move_to_x-editable1.png)  
+## This plugin is renamed into **[X-editable](https://github.com/vitalets/x-editable)** and no longer supported! Please use X-editable to create issues!
+
+---
+
 # Bootstrap Editable
 
 In-place editing with Bootstrap Form and Popover
